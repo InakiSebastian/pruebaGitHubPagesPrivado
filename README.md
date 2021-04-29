@@ -1,2 +1,0 @@
-# pruebaGitHubPagesPrivado
-DIRECTORIO PÁGINA
