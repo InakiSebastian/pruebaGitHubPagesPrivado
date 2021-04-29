@@ -1,0 +1,219 @@
+﻿													/*
+╔═════════════════════════════════════════════╗
+║ *** D E F I N I C I Ó N   P A G I N A + *** ║
+╠═════════════════════════════════════════════╣
+╚═════════════════════════════════════════════╝   */
+
+@font-face{
+    font-family: titulo;
+    src:url(./titulo.otf)
+}
+@font-face{
+    font-family: google;
+    src:url(./google.ttf)
+}
+.negrita{
+    font-weight: bold;
+}
+.cursiva{
+    font-style: italic;
+}
+hr{
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    top: 590px;
+    left: -2px;
+    margin: 0;
+    
+}
+#separacion2{
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    top: 1091px;
+    left: -2px;
+    margin: 0;
+    
+}
+#subirArriba{
+    position: absolute;
+    z-index: 2;
+    top: 620px;
+    border: 15 px solid red;
+    transform: scale(0.04);
+    left:270px;
+    background-color: white;
+    border-radius: 350px;
+    border:6px solid black;
+        
+}
+
+													/*
+╔═══════════════════════════════════════════════╗
+║ *** D E F I N I C I Ó N   C A B E Z E R A *** ║
+╠═══════════════════════════════════════════════╣
+╚═══════════════════════════════════════════════╝   */
+
+#titulohead{
+    position: absolute;
+    width: 480px;
+    font-family: titulo;
+    left:calc(50% - 240px);
+    z-index: 1;
+}
+#cajaColorTitulo{
+    background-color: gainsboro;
+    height: 90px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    position: absolute;
+    z-index: 0;
+}
+
+
+													/*
+╔══════════════════════════════════════════════════╗
+║ *** D E F I N I C I Ó N   S E C C I Ó N LAMBO*** ║
+╠══════════════════════════════════════════════════╣
+╚══════════════════════════════════════════════════╝   */
+
+#SecLambo{
+    position: absolute;
+    left: 0px;
+    top:90px;
+    width: 100%;
+    height: 500px;
+    background-color: antiquewhite;
+    
+    
+}
+#tituLambo{
+    position: absolute;
+    left: 250px;
+    top: 40px;
+}
+#lambo{
+    transform: scale(0.4,0.4);
+    top: -110px;
+    position: absolute;
+    left: 700px;
+}
+#txtLambo{
+    position: absolute;
+    top: 150px;
+    left: 160px;
+    height: 200px;
+    width: 500px;
+    font-family: google;
+    text-align: justify;
+}
+
+#instafrank{
+    position: absolute;
+    top: 340px;
+    left: 540px;
+    font-family: titulo;
+    text-decoration:none;; 
+    color: gray;
+}
+
+
+
+													/*
+╔══════════════════════════════════════════════════╗
+║ *** D E F I N I C I Ó N   S E C C I Ó N mstng*** ║
+╠══════════════════════════════════════════════════╣
+╚══════════════════════════════════════════════════╝   */
+
+#SecMustang{
+    position: absolute;
+    left: 0px;
+    top:590px;
+    width: 100%;
+    height: 500px;
+    background-color:oldlace;
+    
+}
+#tituMustang{
+    position: absolute;
+    left: 1230px;
+    top: 70px;
+}
+#mustang{
+    transform: scale(0.4,0.4);
+    top: 0px;
+    position: absolute;
+    left: -100px;
+}
+#txtmstng{
+    position: absolute;
+    top: 170px;
+    left: 1050px;
+    height: 200px;
+    width: 500px;
+    font-family: google;
+    text-align: justify;
+}
+#instaNexxus{
+    position: absolute;
+    top: 350px;
+    left: 1400px;
+    font-family: titulo;
+    text-decoration:none;; 
+    color: gray;
+}
+
+													/*
+╔══════════════════════════════════════════════════╗
+║ *** D E F I N I C I Ó N   S E C C I Ó N BMWI8*** ║
+╠══════════════════════════════════════════════════╣
+╚══════════════════════════════════════════════════╝   */
+#secI8{
+    position: absolute;
+    left: 0px;
+    top:1090px;
+    width: 100%;
+    height: 500px;
+    background-color:oldlace;
+    
+}
+#tituI8{
+    position: absolute;
+    left: 310px;
+    top: 70px;
+}
+#I8{
+    transform: scale(0.4,0.4);
+    top: -55px;
+    position: absolute;
+    left: 800px;
+}
+#txtI8{
+    position: absolute;
+    top: 170px;
+    left: 160px;
+    height: 200px;
+    width: 500px;
+    font-family: google;
+    text-align: justify;
+}
+#instaExi{
+    position: absolute;
+    top: 300px;
+    left: 500px;
+    font-family: titulo;
+    text-decoration:none;; 
+    color: gray;
+}
+
+
+											/*
+╔═════════════════════════════════════╗
+║ *** D E F I N I C I Ó N   P I E *** ║
+╠═════════════════════════════════════╣
+╚═════════════════════════════════════╝   */
+
+
+
